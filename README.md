@@ -61,12 +61,7 @@ The dataset used for this project includes daily weather information such as tem
    
 3. Run the analysis script:
    bash
-   python analysis.py
+   weather analysis.py
    
 
-## License
-This project is licensed under the MIT License.
 
----
-
-Feel free to modify this template according to your specific project details and preferences.
