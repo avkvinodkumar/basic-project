@@ -61,7 +61,7 @@ The dataset used for this project includes daily weather information such as tem
    
 3. Run the analysis script:
    bash
-   weather analysis.py
+   weather.py
    
 
 
